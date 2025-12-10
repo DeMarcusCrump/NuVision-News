@@ -35,7 +35,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/dcthedeveloper/NuVision-News.git
+git clone https://github.com/DeMarcusCrump/NuVision-News.git
 cd NuVision-News
 
 # 2. Install dependencies
